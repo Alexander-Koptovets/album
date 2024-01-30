@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Alexander-Koptovets.github.io/album/static/css/main.f855e6bc.css",
+    "main.js": "/Alexander-Koptovets.github.io/album/static/js/main.2bfdda35.js",
+    "static/js/787.3fc287aa.chunk.js": "/Alexander-Koptovets.github.io/album/static/js/787.3fc287aa.chunk.js",
+    "index.html": "/Alexander-Koptovets.github.io/album/index.html",
+    "main.f855e6bc.css.map": "/Alexander-Koptovets.github.io/album/static/css/main.f855e6bc.css.map",
+    "main.2bfdda35.js.map": "/Alexander-Koptovets.github.io/album/static/js/main.2bfdda35.js.map",
+    "787.3fc287aa.chunk.js.map": "/Alexander-Koptovets.github.io/album/static/js/787.3fc287aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2bfdda35.js"
+  ]
+}
