@@ -53,6 +53,5 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  },
-  "homepage": "https://github.com/Alexander-Koptovets.github.io/album"
+  }
 }
